@@ -25,12 +25,6 @@
  - Git/GitHub
  - React (atualmente em estudo)
 
-## Estatísticas do GitHub
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaEudoxia&layout=compact&langs_count=7&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaEudoxia&layout=compact=7&theme=tokyonight)]
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CatarinaEudoxia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)]
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/catarina-eudoxia-ferreira-22a834214/" target="_blank">
