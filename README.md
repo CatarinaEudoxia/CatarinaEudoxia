@@ -9,26 +9,27 @@
 <h3 align="left">Linguagens e Ferramentas:</h3>
 <p align="left">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,vite,figma,firebase&perline=6," alt="My Skills">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,vite,figma,firebase&perline=6" alt="My Skills">
   </a>
 </p>
 
 ## Habilidades e Conhecimentos
 
-- JS
-- HTML5
-- CSS3
-- UI/UX Design
-- Testes Unitários
-- Node.js
-- Firebase
-- Git/GitHub
-- React (atualmente em estudo)
+ - JS
+ - HTML5
+ - CSS3
+ - UI/UX Design
+ - Testes Unitários
+ - Node.js
+ - Firebase
+ - Git/GitHub
+ - React (atualmente em estudo)
 
 ## Estatísticas do GitHub
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaEudoxia&layout=compact&langs_count=7&theme=tokyonight)
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CatarinaEudoxia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaEudoxia&layout=compact=7&theme=tokyonight)]
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CatarinaEudoxia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)]
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
