@@ -10,7 +10,9 @@
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
- [<img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" height="30" width="40" />](https://www.linkedin.com/in/catarina-eudoxia-ferreira-22a834214/)
+  <a href="https://www.linkedin.com/in/catarina-eudoxia-ferreira-22a834214/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" height="30" width="40" alt="LinkedIn">
+  </a>
 </p>
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
