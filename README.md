@@ -6,23 +6,36 @@
 
 - 🌱 Estou aprendendo **React** e amando cada parte disso!
 
-- 📫 Como me encontrar: **ceudoxia.ferreira@gmail.com**
+<h3 align="left">Linguagens e Ferramentas:</h3>
+<p align="left">
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,vite,figma,firebase&perline=6," alt="My Skills">
+  </a>
+</p>
+
+## Habilidades e Conhecimentos
+
+- JS
+- HTML5
+- CSS3
+- UI/UX Design
+- Testes Unitários
+- Node.js
+- Firebase
+- Git/GitHub
+- React (atualmente em estudo)
+
+## Estatísticas do GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaEudoxia&layout=compact&langs_count=7&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=CatarinaEudoxia&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/catarina-eudoxia-ferreira-22a834214/" target="_blank">
      <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" alt="LinkedIn">
   </a>
-</p>
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <a href="mailto:ceudoxia.ferreira@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail.png" height="30" width="30" alt="Gmail">
+  </a>
 </p>
