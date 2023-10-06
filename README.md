@@ -11,7 +11,7 @@
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/catarina-eudoxia-ferreira-22a834214/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" height="30" width="40" alt="LinkedIn">
+     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" width="30" alt="LinkedIn">
   </a>
 </p>
 
