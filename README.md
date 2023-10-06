@@ -23,15 +23,11 @@
 
 ## Habilidades e Conhecimentos
 
- - JS
- - HTML5
- - CSS3
  - UI/UX Design
  - Testes Unitários
- - Node.js
- - Firebase
- - Git/GitHub
- - React (atualmente em estudo)
+ - npm
+ - GitHub
+ - Canva
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
